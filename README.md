@@ -32,7 +32,7 @@ Sıradan bir alışveriş sitesinin aksine, kurumsal bir veritabanı arayüzü s
 
 ## Dosya Ağaç Yapısı
 
-\```
+```
 src/
 ├── assets/
 │   ├── hero.png
@@ -49,4 +49,4 @@ src/
 ├── App.jsx
 ├── index.css
 └── main.jsx
-\```
+```
